@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productImg": "https://kontakt.az/media/catalog/product/cache/5f267e97f6550e9d7e6043084ee14236/n/e/new_project_-_2023-07-25t143513.094.png",
+      "productName": "iPhone 14 Pro 256 GB Gold",
+      "productPrice": "2999.99"
+    },
+    {
+      "productImg": "https://kontakt.az/media/catalog/product/cache/5f267e97f6550e9d7e6043084ee14236/n/e/new-project-88-1_png_1.png",
+      "productName": "iPhone 14 Plus 128 GB Gold",
+      "productPrice": "2399.99",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "productImg": "https://kontakt.az/media/catalog/product/cache/5f267e97f6550e9d7e6043084ee14236/_/d/_d0_9d_d0_be_d0_b2_d1_8b_d0_b9-_d0_bf_d1_80_d0_be_d0_b5_d0_ba_d1_82-35_png_2.png",
+      "productName": "iPhone 14 Plus 256 GB Purple",
+      "productPrice": "2699.99"
+    },
+    {
+      "productImg": "https://kontakt.az/media/catalog/product/cache/5f267e97f6550e9d7e6043084ee14236/_/d/_d0_9d_d0_be_d0_b2_d1_8b_d0_b9-_d0_bf_d1_80_d0_be_d0_b5_d0_ba_d1_82-35_png_2.png",
+      "productName": "iPhone 14 Plus 256 GB pink",
+      "productPrice": "2699.99",
+      "id": 5
+    },
+    {
+      "productImg": "https://kontakt.az/media/catalog/product/cache/f7ddf56c9575d0bd144936c69d08ce67/m/m/mm2e3_av2.jpg",
+      "productName": "sfsf",
+      "productPrice": "29",
+      "id": 6
+    }
+  ]
+}
